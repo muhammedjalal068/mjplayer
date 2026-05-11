@@ -1,0 +1,26 @@
+{
+  "overview": "Mj Player Pro is a premium local media player that runs entirely in your browser. Load video and audio files locally — nothing is ever uploaded. Features 200% audio boost, a beautiful dark glassmorphism UI, playback controls, library folder scanning, and PWA install support.",
+  "features": [
+    "Premium dark glassmorphism UI with blue accents",
+    "200% audio boost via Web Audio API",
+    "Full playback controls: play/pause, seek, volume, speed",
+    "Brightness & contrast video effects",
+    "Library sidebar for folder scanning",
+    "Recent files dropdown",
+    "Keyboard shortcuts for all controls",
+    "Picture-in-Picture and Theater mode",
+    "Fullscreen with fallback pseudo-fullscreen",
+    "PWA install support (iOS & Android)",
+    "100% local — files never leave the browser"
+  ],
+  "category": "entertainment",
+  "tags": [
+    "media-player",
+    "video",
+    "audio",
+    "pwa",
+    "local",
+    "dark-ui"
+  ],
+  "last_updated": "2026-05-10T05:59:44.347Z"
+}
